@@ -210,6 +210,11 @@ h3 {
   color: var(--muted);
 }
 
+.panel-label {
+  display: block;
+  margin-bottom: 0.85rem;
+}
+
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
@@ -310,15 +315,17 @@ h3 {
   overflow: hidden;
   background: linear-gradient(180deg, #efe4d5, #fdf8f1);
   border: 1px solid rgba(89, 63, 38, 0.1);
-  min-height: 230px;
+  height: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .screen-image {
   width: 100%;
   height: 100%;
-  min-height: 230px;
-  object-fit: cover;
-  object-position: top center;
+  object-fit: contain;
+  object-position: center;
 }
 
 .screen-placeholder {
@@ -372,6 +379,10 @@ h3 {
   font-size: 1.2rem;
   font-weight: 700;
   text-decoration: none;
+}
+
+.contact-copy {
+  width: 100%;
 }
 
 .contact-email a:hover {
