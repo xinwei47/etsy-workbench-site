@@ -385,6 +385,15 @@ h3 {
   width: 100%;
 }
 
+.contact-stack {
+  display: grid;
+  gap: 1rem;
+}
+
+.contact-heading h2 {
+  margin-bottom: 0;
+}
+
 .contact-email a:hover {
   color: var(--accent);
 }

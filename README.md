@@ -1,6 +1,6 @@
-# Etsy Workbench Site
+# Promptloom Site
 
-Static landing site for `Etsy Workbench`, intended for a public-facing URL that can be used in partner and platform review flows.
+Static landing site for `Promptloom`, intended for a public-facing URL that can be used in partner and platform review flows.
 
 ## Why this repo exists
 
