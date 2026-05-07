@@ -9,18 +9,14 @@ The main application repo currently includes private operational workflows and b
 ## Files
 
 - `index.html` - public landing page
-- `privacy.html` - privacy policy scaffold
-- `terms.html` - terms of service scaffold
 - `styles.css` - shared styles
 - `assets/screenshots/` - drop real app screenshots here
 
 ## Before publishing
 
-1. Replace `replace-with-real-email@example.com` everywhere.
-2. Replace legal placeholders such as `[replace with legal entity or operator name]`.
-3. Add real screenshots from the app.
-4. Review copy so it matches the product's current state.
-5. Review the legal pages before using them in any application or compliance flow.
+1. Add real screenshots from the app.
+2. Review copy so it matches the product's current state.
+3. Confirm the contact email is correct.
 
 ## Screenshot suggestions
 
